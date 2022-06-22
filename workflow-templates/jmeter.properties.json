@@ -1,0 +1,8 @@
+{
+    "name": "JMeter",
+    "description": "Run JMeter scripts.",
+    "iconName": "example-icon",
+    "categories": [
+        "Automation"
+    ]
+}
